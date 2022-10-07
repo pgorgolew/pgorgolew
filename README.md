@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Paweł and I'm a 3rd year student of Computer Science at AGH University of Science and Technology :school:. I love doing and watching sports (mainly football :soccer:). I started programming in my last year of high school - very basic usage of C++. During studies I turned for Python - currently my most popular language.
+My name is Paweł and I'm a 3rd year student of Computer Science at AGH University of Science and Technology :school:. I started programming in my last year of high school - very basic usage of C++. During studies I turned for Python - currently my most popular language.
 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/pawe%C5%82-gorgolewski-56436a214/)
 
