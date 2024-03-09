@@ -1,7 +1,7 @@
 ### Hello! 👋
 
-My name is Paweł and I'm a 4th year student of Computer Science at AGH University of Science and Technology :school:\
-Software Engineer with 2 years of commercial experience 🖥️
+Graduated with Bachelor degree in Computer Science from the AGH University of Science and Technology :school:\
+Software Engineer with more than 2 years of commercial experience 🖥️
 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/pawe%C5%82-gorgolewski-56436a214/)
 
